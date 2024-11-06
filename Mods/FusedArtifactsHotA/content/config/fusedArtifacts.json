@@ -1,0 +1,14 @@
+{
+	"hota.artifacts:diplomatsCloak" : {
+		"fusedComponents" : true
+	},
+	"hota.artifacts:goldenGoose" : {
+		"fusedComponents" : true
+	},
+	"hota.artifacts:ironfistOfTheOgre" : {
+		"fusedComponents" : true
+	},
+	"hota.artifacts:pendantOfReflection" : {
+		"fusedComponents" : true
+	}
+}

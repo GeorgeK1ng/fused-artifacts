@@ -1,0 +1,20 @@
+{
+	"core:bowOfTheSharpshooter" : {
+		"fusedComponents" : true
+	},
+	"core:ringOfTheMagi" : {
+		"fusedComponents" : true
+	},
+	"core:cornucopia" : {
+		"fusedComponents" : true
+	},
+	"core:statueOfLegion" : {
+		"fusedComponents" : true
+	},
+	"core:elixirOfLife" : {
+		"fusedComponents" : true
+	},
+	"core:wizardsWell" : {
+		"fusedComponents" : true
+	}
+}
