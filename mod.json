@@ -1,6 +1,6 @@
 {
 	"name" : "Fused Artifacts",
-	"description" : "Fused artifacts for Heroes 3", 
+	"description" : "Fused artifacts for Heroes 3. Unlike Combined artifacts that take up multiple slots when assembled, a fused artifact will take up only 1 slot.", 
 	"modType" : "Objects",
 	"author" : "Krs",
 	"contact" : "",
@@ -10,12 +10,7 @@
 	"downloadSize" : 0.01,
 	"compatibility" :
 	{
-		"min" : "1.5.5"
-	},
-	//"depends" : ["hota.artifacts"],
-	"artifacts" :
-	[
-		"config/fusedArtifacts"
-	]
+		"min" : "1.6.0"
+	}
 }
 
