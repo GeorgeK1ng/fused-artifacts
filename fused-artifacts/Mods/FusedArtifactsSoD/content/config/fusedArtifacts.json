@@ -1,4 +1,22 @@
 {
+	"core:admiralsHat" : {
+		"fusedComponents" : true
+	},
+	"core:angelicAlliance" : {
+		"fusedComponents" : true
+	},
+	"core:armorOfTheDamned" : {
+		"fusedComponents" : true
+	},
+	"core:cloakOfTheUndeadKing" : {
+		"fusedComponents" : true
+	},
+	"core:powerOfTheDragonFather" : {
+		"fusedComponents" : true
+	},
+	"core:titansThunder" : {
+		"fusedComponents" : true
+	},
 	"core:bowOfTheSharpshooter" : {
 		"fusedComponents" : true
 	},
